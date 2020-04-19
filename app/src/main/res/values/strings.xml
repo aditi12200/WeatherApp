@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="header">WEATHER APP</string>
+    <string name="location">Mulund West</string>
+    <string name="update">Last updated 8mins ago</string>
+    <string name="temperature">28°</string>
+    <string name="temp_des">Partly Cloudy</string>
+    <string name="city">MUMBAI</string>
+</resources>
